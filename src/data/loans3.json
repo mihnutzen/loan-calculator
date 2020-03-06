@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Revolving Credit Facility",
+    "type": "rcf",
+    "interest": 3,
+    "available": true,
+    "fee": 0
+  },
+  {
+    "title": "Business Loan",
+    "type": "bl",
+    "available": false
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "singleQuote": true,
+  "overrides": [
+    {
+      "files": "*.json",
+      "excludeFiles": ["tsconfig.json"]
+    }
+  ]
+}

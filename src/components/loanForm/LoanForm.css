@@ -1,0 +1,15 @@
+.LoanForm {
+  text-align: center;
+  padding: 10px 0;
+  background-color: #e3f2fd;
+}
+
+.LoanForm > button {
+  width: 200px;
+  padding: 5px;
+
+  border: 0;
+  background: #2196f3;
+  color: #FFF;
+  font-size: 16px;
+}
